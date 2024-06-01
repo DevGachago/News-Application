@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">News Mashinani</string>
+    <string name="agreement_content">
+    1. By posting news on this platform, you agree to abide by the community guidelines and terms of service.\n
+    2. You acknowledge that the content you post is accurate and does not violate any laws or infringe on the rights of others.\n
+    3. You are solely responsible for the news content you post, including any images or multimedia associated with it.\n
+    4. You grant the platform the right to display, distribute, and modify your news content for promotional and administrative purposes.\n
+    5. The platform reserves the right to remove or modify any news content that violates the guidelines or terms of service.
+   </string>
+    <string name="prompt_select_category">Select a category</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="news_image_description">News Image Description</string>
+
+
+    <string name="token">007eJxTYDi9b3tI/5uNus9t4mMm/u+7KrWqy/ruqeyVvy5ON7jM3XxVgSHVPNXIODHRLDXV3MAk1SDVwijNPMnUIDkpxcQi1dAoxSNPJLUhkJFhKbM1KyMDBIL47AyJaUWZZal5DAwAt3IjCA==</string>
+    <string name="appId">e7e23aa6ee704e0e82f7b50cbd48e12d</string>
+    <string name="channelName">afriven</string>
+    <string name="slider">announcements! announcements! </string>
+    <string name="topAnn">Find all the announcements here</string>
+    <string name="panel">
+        1. By posting announcements on this platform, you agree to abide by the community guidelines and terms of service.\n
+    2. You acknowledge that the content you post is accurate and does not violate any laws or infringe on the rights of others.\n
+    3. You are solely responsible for the news content you post, including any images or multimedia associated with it.\n
+    4. You grant the platform the right to display, distribute, and modify your news content for promotional and administrative purposes.\n
+    5. The platform reserves the right to remove or modify any news content that violates the guidelines or terms of service.\n
+        VIEWING ADS CAN INCREASE YOUR POINTS TO POST ANNOUNCEMENTS.
+
+    </string>
+    <string name="newsmashinani">\@newsmashinani</string>
+    <string name="announce01">This is a sample announcement description. It provides details about the announcement.</string>
+    <string name="watermark">\@newsmashinani</string>
+    <string name="date_and_time">Date and Time</string>
+    <string name="announcement_title">Announcement Title</string>
+
+
+</resources>

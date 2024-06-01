@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/videos"
+        android:title="Post Announcements" />
+    <item
+        android:id="@+id/menu_suggestion"
+        android:title="Suggestion" />
+    <item
+        android:id="@+id/menu_report_abuse"
+        android:title="Report Abuse" />
+    <item
+        android:id="@+id/menu_contact_us"
+        android:title="Contact Us" />
+</menu>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+        <item>Home</item>
+        <item>Education</item>
+        <item>Science</item>
+        <item>Health</item>
+        <item>Sports</item>
+        <item>Tech</item>
+        <item>Agriculture</item>
+        <item>National</item>
+    </string-array>
+</resources>

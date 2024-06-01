@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_account"
+        android:title="Post News" />
+    <item
+        android:id="@+id/menu_login"
+        android:title="Login" />
+    <item
+        android:id="@+id/menu_become_member"
+        android:title="Become a Member" />
+</menu>
